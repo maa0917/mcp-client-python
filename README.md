@@ -46,7 +46,7 @@ uv run client.py path/to/server.py
 ## 使い方例
 
 ```bash
-Query: What are the wheather alerts in California?
+Query: What are the weather alerts in California?
 ```
 
 ## 終了方法
