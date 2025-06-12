@@ -1,6 +1,6 @@
 # mcp-client-python
 
-これは、[(Model Context Protocol（MCP](https://modelcontextprotocol.io/quickstart/client) を使って、Claude
+これは、[(Model Context Protocol（MCP)](https://modelcontextprotocol.io/quickstart/client) を使って、Claude
 APIと天気情報サーバーを接続するPythonクライアントです。
 
 自然言語による質問に対し、必要に応じてツール（`get_forecasts` や `get_result`）を呼び出します。
